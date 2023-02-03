@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+    background: linear-gradient(68.15deg, #80caab 16.62%, #a7bb9e 58.61%);
+    width: 700px;
+    margin: center;
+}
+
+header {
+    display: flexbox;
+    flex-direction: row;
+    align-items: center;
+}
+
+main {
+    
+}
+
+p {
+    float: left;
+}
+
+.creuza {
+    clear: both;
+    margin-top: 20px;
+    max-width: 200px;
+    max-height:250px;
+    border-radius: 200px;
+}
+
+
+
+
+
+.titulo {
+    margin: center;
+}
