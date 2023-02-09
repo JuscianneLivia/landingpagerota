@@ -4,6 +4,13 @@ body, html {
 
 nav{
     background-color: #da8642;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    
 }
 
 a.nav-link{
@@ -12,4 +19,12 @@ a.nav-link{
 
 a.nav-link:hover{
     color: aqua;
+}
+
+.svg{
+    width: 10%;
+    height: 10%;
+}
+.contatos{
+   display: inline-block;
 }
