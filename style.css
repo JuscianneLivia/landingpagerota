@@ -61,3 +61,17 @@ nav{
     height: 20%;
     margin-bottom: 5%;
 }
+
+.logo-footer {
+    width: 200px;
+    height: 50px;
+}
+.copy-footer{
+    padding-top: 30px;
+    padding-left: 400px;
+}
+
+.mapa{
+    width: 1300px;
+    height: 500px;
+}
