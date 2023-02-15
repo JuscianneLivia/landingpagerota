@@ -6,10 +6,6 @@ nav{
     background-color: #da8642;
     font-size: 20px;
     font-weight: bold;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-
     
 }
 
@@ -19,9 +15,7 @@ nav{
     height: 40%;
     margin-bottom: 5%;
 }
-.contatos{
-   display: inline-block;
-}
+
 
 .grid{
     width: 260px;
